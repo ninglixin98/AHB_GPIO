@@ -1,0 +1,11 @@
+`ifndef LVC_AHB_DEFINES_SVH
+`define LVC_AHB_DEFINES_SVH
+
+`define LVC_AHB_MAX_DATA_WIDTH 64
+`define LVC_AHB_MAX_ADDR_WIDTH 32
+
+
+
+
+
+`endif // LVC_AHB_DEFINES_SVH
